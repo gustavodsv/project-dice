@@ -63,3 +63,10 @@
     text-shadow: 3px 2px #888;
 }
 
+.help {
+    position: absolute;
+    float: right;
+    right: 10;
+    bottom: 10;
+}
+
